@@ -1,1 +1,1 @@
-# Pong-no-Scratch
+# Pong-no-JavaScript
